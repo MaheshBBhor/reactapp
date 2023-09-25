@@ -1,5 +1,4 @@
 {
-  "homepage": "https://MaheshBBhor.github.io/reactapp",
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
@@ -51,5 +50,6 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MaheshBBhor/reactapp/issues"
-  }
+  },
+  "homepage": "https://github.com/MaheshBBhor/reactapp#readme"
 }
