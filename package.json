@@ -1,4 +1,5 @@
 {
+  "homepage": "https://MaheshBBhor.github.io/reactapp",
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
@@ -39,7 +40,9 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MaheshBBhor/reactapp.git"
@@ -48,6 +51,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MaheshBBhor/reactapp/issues"
-  },
-  "homepage": "https://github.com/MaheshBBhor/reactapp#readme"
+  }
 }
