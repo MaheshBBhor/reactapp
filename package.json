@@ -1,5 +1,6 @@
 {
   "name": "reactapp",
+  "homepage": "https://github.com/MaheshBBhor/reactapp,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -45,9 +46,5 @@
     "url": "git+https://github.com/MaheshBBhor/reactapp.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MaheshBBhor/reactapp/issues"
-  },
-  "homepage": "https://github.com/MaheshBBhor/reactapp#readme"
+  "license": "ISC"
 }
